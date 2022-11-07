@@ -2,7 +2,7 @@
 
 ## Link
 
-- Live Site URL: []()
+- Live Site URL: [ https://harshita1225.github.io/to-do-list-react/](https://harshita1225.github.io/to-do-list-react/)
 
 ### Project Specifications
 
